@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.663a6787.css",
+    "main.js": "/static/js/main.ddbdac72.js",
+    "static/media/about.jpg": "/static/media/about.527818974fc7eb2728b9.jpg",
+    "static/media/Logo-modified.png": "/static/media/Logo-modified.76f29ba24b03b0984a35.png",
+    "static/media/porche.jpeg.jpg": "/static/media/porche.jpeg.32fd70b124619a5a08a4.jpg",
+    "static/media/SaveMoreDrinksLogo.jpg": "/static/media/SaveMoreDrinksLogo.14df991d0a6f343836e0.jpg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.663a6787.css.map": "/static/css/main.663a6787.css.map",
+    "main.ddbdac72.js.map": "/static/js/main.ddbdac72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.663a6787.css",
+    "static/js/main.ddbdac72.js"
+  ]
+}

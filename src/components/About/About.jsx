@@ -69,7 +69,7 @@ const Para = styled.p`
 const Wrapper = styled.div`
   width: 100%;
   display: flex;
-  allign-items: space-evenly;
+  align-items: space-evenly;
   justify-content: center;
   flex-direction: row;
 `;
@@ -79,7 +79,7 @@ const Left = styled.div`
   display: flex;
   flex: 1;
   align-items: center;
-  justify content;
+  justify-content: center;
 `;
 
 const Image = styled.img`
@@ -91,7 +91,7 @@ const Image = styled.img`
 const Right = styled.div`
   flex: 3;
   margin: 10px;
-  diplay: flex;
+  display: flex;
   flex-direction: column;
 `;
 

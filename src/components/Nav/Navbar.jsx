@@ -37,7 +37,7 @@ const Right = styled.div`
 
 const Logo = styled.img`
   height: 80px;
-  width: 90px
+  width: 90px;
   cursor: pointer;
   padding-left: 50px;
 `;
@@ -104,6 +104,7 @@ const Navbar = () => {
             <MenuItem href="/menu"> Menu </MenuItem>
             <MenuItem href="/team"> Gallery </MenuItem>
             <MenuItem> Contact Us </MenuItem>
+            <MenuItem> Sustainability </MenuItem>
           </Right>
         </Wrapper>
       </div>

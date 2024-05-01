@@ -55,7 +55,7 @@ const TextOnImage = styled.div`
     }
     100% {
       transform: translateY(-20px);
-      text-shadow: 0 50px 0 #black, 0 0px 20px rgba(0, 0, 0, 0.8);
+      text-shadow: 0 50px 0 #000, 0 0px 20px rgba(0, 0, 0, 0.8);
     }
   }
 `;
